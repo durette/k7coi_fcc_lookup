@@ -2,7 +2,7 @@
 by Kevin Durette, K7COI
 
 # Web syntax:
-<code>https://www.example.com/this_file.php?callsign=K7COI</code>
+<code>https://www.example.com/index.php?callsign=K7COI</code>
 
 # Command line synax:
-<code>php this_file.php K7COI</code>
+<code>php index.php K7COI</code>
